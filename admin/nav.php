@@ -1,0 +1,1 @@
+<nav class="admin-nav container glass"><a href="<?=url('admin/index.php')?>">Ringkasan</a><a href="<?=url('admin/campaigns.php')?>">Kampanye</a><a href="<?=url('admin/donations.php')?>">Donasi</a><a href="<?=url('admin/updates.php')?>">Berita</a><a href="<?=url('admin/usages.php')?>">Penggunaan Dana</a><a href="<?=url('admin/export.php')?>">Ekspor CSV</a></nav>
